@@ -1,0 +1,126 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+
+.inWordColorControl {
+    color: #D60B0B;
+}
+
+
+.menuLinks {
+    text-decoration: none;
+    color: white;
+    
+}
+.topMenu {
+    display: flex;
+    justify-content: end;
+    margin-right: 9%;
+    font-family: "DM Sans", sans-serif;
+    font-size: 2.5rem;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+}
+
+.menu1 {
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+}
+
+.menuElement {
+    list-style: none;
+    margin: 0 30px 0 30px;
+    padding: 0;
+}
+
+.backgroundBlock {
+    background-color: #01164090;
+    margin: 0 2.5rem 0 2.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    justify-self: center;
+    width: 96%;
+}
+
+.attentionImage {
+    margin-top: -5rem;
+    width: 49.8125rem;
+    height: 38.0625rem;
+}
+
+.headerContentBox {
+    display: flex;
+    flex-direction: column;
+    margin-top: -10rem;
+}
+
+.socialIcons {
+    display: flex;
+    justify-content: flex-end;   
+}
+
+.iconSpace {
+    margin: 0 1rem 0 1rem;
+}
+
+.mainTittle {
+    font-family: "DM Sans", sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    font-size: 1400%;
+    margin: -2rem 0 0 0;
+}
+
+.profileBox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 103rem;
+    margin: 8rem 0 10rem 0;
+}
+
+.skillsBox {
+    display: flex;
+    flex-direction: column;
+}
+
+.skillsWords {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 720.75%;
+    margin: 0
+    ;
+}
+
+.profilePic {
+    border-radius: 50%;
+    width: 24.25%;
+    height: 24.25%;
+}
+
+.oneRuleToRuleThemAllOneRuleToFindThemOneRuleToBringThemAllAndInTheDarknessBindThem {
+    width: 90%;
+    align-self: center;
+    color: #ffffff46;
+}
+
+.sectionBox1 {
+    display: flex;
+    flex-direction: row;
+    margin: 10rem 0 10rem 0;
+}
+
+.sectionBox2 {
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 10rem 0 10rem 0;
+}
