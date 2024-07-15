@@ -3,6 +3,9 @@ body {
     color: white;
 }
 
+p {
+    margin: 0;
+}
 
 .inWordColorControl {
     color: #D60B0B;
@@ -40,12 +43,22 @@ body {
 .backgroundBlock {
     background-color: #01164090;
     margin: 0 2.5rem 0 2.5rem;
-    display: flex;
+       display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     justify-self: center;
     width: 96%;
+}
+
+.alignmentBox {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    justify-self: center;
+    width: 90%;
 }
 
 .attentionImage {
@@ -113,14 +126,103 @@ body {
     color: #ffffff46;
 }
 
+.skillsBigSection {
+    font-family: "DM Sans", sans-serif;
+    font-size: 1.875rem;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+}
+.sectionSubtitle {
+    font-family: "DM Sans", sans-serif;
+    font-size: 3.75rem;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    margin: 0;
+}
+
+.sectionSubtitle1 {
+    font-family: "DM Sans", sans-serif;
+    font-size: 3.75rem;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    margin: 8rem 0;
+    display: flex;
+    justify-content: center;
+}
+
+.projectsSlider {
+    margin: 0 0 8rem 0;
+    width: 101.875rem;
+}
+
 .sectionBox1 {
     display: flex;
     flex-direction: row;
     margin: 10rem 0 10rem 0;
+    justify-content: space-evenly;
+    align-items: center;
+
 }
 
 .sectionBox2 {
     display: flex;
     flex-direction: row-reverse;
     margin: 10rem 0 10rem 0;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.sectionParagraphBox {
+    margin: 0 8rem;
+}
+
+.skillImages{
+    margin: 8rem;
+    width: 25.875rem;
+    height: 25.875rem;
+}
+
+.skillImagesDesign {
+    margin: 8rem 10rem;
+    width: 25.875rem;
+    height: 25.875rem;
+}
+
+.skillImagesDeveloper {
+    margin: 8rem 8.5rem;
+    width: 25.875rem;
+    height: 25.875rem;
+}
+
+.oneRuleToRuleThemAllOneRuleToFindThemOneRuleToBringThemAllAndInTheDarknessBindThem2 {
+    width: 90%;
+    align-self: center;
+    color: #ffffff46;
+    margin: 0 0 6rem 0;
+}
+
+.copyLeft {
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    color: #737373;
+    justify-content: center;
+    margin: 2rem 0 6rem 0;
+}
+.menu2 {
+    display: flex;
+    flex-direction: row;
+    margin: 6rem 0 0 0;
+    display: flex;
+    justify-content: center;
+    font-family: "DM Sans", sans-serif;
+    font-size: 1.875rem;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
 }
