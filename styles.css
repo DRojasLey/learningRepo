@@ -49,6 +49,7 @@ p {
     justify-content: center;
     justify-self: center;
     width: 96%;
+    background: linear-gradient(0.50turn, #011640, #010B20, #000000, #000000, #011640, #205373, #5FC2D9);
 }
 
 .alignmentBox {
