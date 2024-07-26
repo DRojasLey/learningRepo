@@ -30,7 +30,14 @@ Can be deployed on any web server as it uses basic HTML files without additional
 
 See the intended design [Here](prototipe-0.1.0.pdf "Concept Art for the portfolio")
 
+<br>
 
+![Porfolio Image](images/readme-img-header.png)
+
+<br>
+
+
+---
 
 
 1. Version 0.7.0 has:
@@ -221,6 +228,12 @@ function showSlides() {
 
 
 ---
+
+#### Contributors
+
+| Name       | GitHub                                   |  Role  |
+|------------|------------------------------------------|--------|
+| Daniel T.  |  https://github.com/danieltrujillo003    | Mentor |
 
 
 #### Contact
